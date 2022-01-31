@@ -9,8 +9,8 @@ apt install git
 
 pip2 install requests mechanize
 
-https://github.com/shorabhossen228/KOVB.git
+git clone https://github.com/shorabhossen228/KOVB.git
 
-cd KOVB
+cd kovb
 
 python2 kovb.py
